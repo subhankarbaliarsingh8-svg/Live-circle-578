@@ -1,0 +1,6 @@
+{
+  "name": "DesiConnect",
+  "description": "Modern Indian social media app inspired by ShareChat featuring regional feeds, short videos, trending tags, instant messaging, and community creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
